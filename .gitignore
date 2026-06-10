@@ -1,0 +1,5 @@
+bert_ag_news_final/
+bert_ag_news_checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
